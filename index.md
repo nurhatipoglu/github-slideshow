@@ -20,13 +20,21 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. Group
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
+[Ues Marmara](https://ues.marmara.edu.tr/Home/Index) and ![Image](src)
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+```JavaScript
+var a=1;
+```
+
 
 ### Jekyll Themes
 
