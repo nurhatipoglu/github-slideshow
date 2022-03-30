@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Text
 Use the left arrow to go back!
 
 |University|Student|Midterm|Final|
